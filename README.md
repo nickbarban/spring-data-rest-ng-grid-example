@@ -20,4 +20,4 @@ http://localhost:8080/app/index.html
 * [AngularJS](http://angularjs.org) v1.2.0-rc.3
 * [ng-grid](https://github.com/angular-ui/ng-grid) v.2.0.6
 * based on [angular-seed](https://github.com/angular/angular-seed)
-* all libraries and dependencies are loaded using [WebJars](http://webjars.org/)
+* all client libraries and dependencies are loaded using [WebJars](http://webjars.org/)
