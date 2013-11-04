@@ -12,7 +12,7 @@ mvn jetty:run
 ```
 and then browse to:
 
-http://localhost:8080/app/index.html
+[http://localhost:8080/app/index.html](http://localhost:8080/app/index.html)
 
 
 ### This Project is Using:
